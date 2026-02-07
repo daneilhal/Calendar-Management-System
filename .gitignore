@@ -1,0 +1,9 @@
+/src/CalendarServer/.idea
+/src/CalendarServer/CalendarServer/obj
+/src/CalendarServer/CalendarLib/obj
+/src/CalendarServer/CalendarLib.Tests/obj
+/src/CalendarServer/CalendarServer/bin
+/src/CalendarServer/CalendarLib/bin
+/src/CalendarServer/CalendarLib.Tests/bin
+*.sln.DotSettings.user
+*.DS_Store
